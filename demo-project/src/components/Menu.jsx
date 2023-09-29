@@ -41,10 +41,10 @@ function Menu () {
 
             <p>The Courses We Offer</p>
 
+            <Course />
 
             <ul className="courses">
 
-                {course.map()}
                 
             </ul>              
         </div>
@@ -52,3 +52,20 @@ function Menu () {
 }
 
 export default Menu
+
+
+function Course() {
+
+    console.log(courses);
+
+    return(
+
+        <>
+        
+    
+        
+        </>
+    )
+    
+}
+
