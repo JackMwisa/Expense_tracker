@@ -24,6 +24,16 @@ let courses = [
         code: "CS107",
         price: 9
     }
+    {
+        name: "Application Development",
+        code: "CS107",
+        price: 9
+    }
+    {
+        name: "Application Development",
+        code: "CS107",
+        price: 9
+    }
 
 ]
 
