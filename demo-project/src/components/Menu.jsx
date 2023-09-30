@@ -25,7 +25,7 @@ let courses = [
         price: 9
     }
     {
-        name: "Application Development",
+        name: "Cyber Security",
         code: "CS107",
         price: 9
     }
