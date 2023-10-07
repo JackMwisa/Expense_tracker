@@ -1,7 +1,6 @@
 
 import "./styles.css"
 
-
 let courses = [
 
     {
